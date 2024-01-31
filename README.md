@@ -24,3 +24,5 @@
 - Computer Vision
 
 - Segmentation
+
+- Pose Estimation
