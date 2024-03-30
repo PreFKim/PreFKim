@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6EAFE8&text=TaeHoon)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=6EAFE8&text=TaeHoon)
 
 ## Introduce
 
