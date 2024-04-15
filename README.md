@@ -11,7 +11,7 @@
 ## Stack
 <div align='center'>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PreFKim&layout=donut)](https://github.com/PreFKim/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PreFKim&layout=donut&hide=ipynb,css,html)](https://github.com/PreFKim/)
     
 </div>
 <!--https://simpleicons.org/ 에서 색상, 이름 확인 가능-->
