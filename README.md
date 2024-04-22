@@ -20,7 +20,7 @@
     <div style="width:15%;flex:1;box-sizing: border-box;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">&nbsp
         <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">&nbsp
-        <img src="https://img.shields.io/badge/Delphi-E62431?style=flat&logo=delphi&logoColor=white">&nbsp
+        <img src="https://img.shields.io/badge/Delphi 7.2-E62431?style=flat&logo=delphi&logoColor=white">&nbsp
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">&nbsp
         <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white">&nbsp
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">&nbsp
