@@ -10,8 +10,9 @@
 
 ## Stack
 <div align='center'>
+<!--https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card-->
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PreFKim&layout=donut&hide=ipynb,css,html)](https://github.com/PreFKim/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PreFKim&size_weight=0&count_weight=1&layout=donut&hide=ipynb,css,html)](https://github.com/PreFKim/)
     
 </div>
 <!--https://simpleicons.org/ 에서 색상, 이름 확인 가능-->
