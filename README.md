@@ -40,5 +40,9 @@
 
 - Segmentation
 
-- Pose Estimation
+- Domain Adaptation
+
+- Pose Estimation (2D/3D)
+
+- Motion Synthesis
 
